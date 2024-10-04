@@ -5,6 +5,7 @@ Description:
 This Go program simulates a periodic Ctrl + Tab keypress to keep the screen awake. The interval between key presses is randomized between 25 and 50 seconds, ensuring that the system doesn't enter sleep mode.
 
 Steps to Clone and Run the Program:
+
 Clone the Repository
         
         git clone https://github.com/UmerTayyeb/KeepAlive_ctrl-Tab.git
