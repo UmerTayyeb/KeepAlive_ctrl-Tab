@@ -23,12 +23,12 @@ Run the Program
 
 Creating an Executable File:
 
-Build the Executable(This will create an executable named keep_awake in the current directory (for ubuntu/windows))
+Build the Executable(This will create an executable named keep_awake in the current directory (for windows))
         
-        go build -o keep_awake
+        go build -o keep_awake.exe
 
             
 
 Run the Executable
 
-        ./keep_awake
+        ./keep_awake.exe
