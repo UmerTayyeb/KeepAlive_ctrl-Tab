@@ -10,9 +10,11 @@ Clone the Repository
         cd KeepAlive_ctrl-Tab
 
 Install Dependencies
+        
         go mod tidy
 
 Run the Program
+        
         go run ctrl+tab.go
 
 
