@@ -6,6 +6,7 @@ This Go program simulates a periodic Ctrl + Tab keypress to keep the screen awak
 
 Steps to Clone and Run the Program:
 Clone the Repository
+        
         git clone https://github.com/UmerTayyeb/KeepAlive_ctrl-Tab.git
         cd KeepAlive_ctrl-Tab
 
