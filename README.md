@@ -10,6 +10,7 @@ Clone the Repository
         
         git clone https://github.com/UmerTayyeb/KeepAlive_ctrl-Tab.git
         cd KeepAlive_ctrl-Tab
+        go version #for windows (for ubuntu go --version)
 
 Install Dependencies
         
@@ -28,5 +29,6 @@ Build the Executable(This will create an executable named keep_awake in the curr
 
             
 
-    Run the Executable
+Run the Executable
+
         ./keep_awake
