@@ -10,7 +10,7 @@ Clone the Repository
         
         git clone https://github.com/UmerTayyeb/KeepAlive_ctrl-Tab.git
         cd KeepAlive_ctrl-Tab
-        go version #for windows (for ubuntu go --version)
+        go version #for windows (for ubuntu: go --version)
 
 Install Dependencies
         
